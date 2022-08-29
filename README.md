@@ -1,5 +1,3 @@
-# Trabajo2
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,8 +9,9 @@
     <style>
         body div {
             background-color: violet;
+            color: black;
             margin: 10px;
-            padding: 200px;
+            padding: 100px;
         }
     </style>
 </head>
@@ -20,9 +19,9 @@
     <section class="container-fluid mt-5">
         <div class="row">
             <div class="card" style="width: 18rem;">
-                <img src="C:\Users\Naty\Pictures\Programacion\WhatsApp Image 2022-08-18 at 2.54.58 PM.jpeg" width="100px" class="card-img-top" alt="...">
+                <img src="C:\Users\Natalia\Desktop\Natalia Guzman\Programacion\Diseño_Grafico\Natalia.PNG" width="100px" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Natalia Guzman</h5>
+                  <h5 class="card-title"><I><b>Natalia Guzman</b></I></h5>
                   <p class="card-text"><b>Soy aprendiz de programacion, diseñadora grafica y soy maestra particular </p></b>
                 </div>
               </div>
